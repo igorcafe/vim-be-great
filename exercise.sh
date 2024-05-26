@@ -40,7 +40,7 @@ do
 		fi
 
 		echo "incorrect answer for $exercise. relaunching vim in 4 seconds."
-		diff --unified .$exercise $exercise
+		#diff --unified .$exercise $exercise 2> /dev/null
 		sleep 4
 	done
 done
