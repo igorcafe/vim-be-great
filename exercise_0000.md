@@ -1,15 +1,14 @@
-				WELCOME!
+# WELCOME!
 
 This a list of exercises for vim motions.
 
-The idea is to teach you how to vim by practice and repetition.
-These exercises don't expect you to know anything about vim at all, so I'll try
-my best to explain.
+The idea is to teach you how to vim by **practice** and **repetition**.
+These exercises don't expect you to know anything about vim at all.
 
 You can move down with the arrow keys for now.
 
 
-				HOW IT WORKS?
+# HOW IT WORKS?
 
 It's simple.
 The script launches vim with the current exercise you are on. When you finish

@@ -1,4 +1,4 @@
-			GOING TO INSERT MODE
+# GOING TO INSERT MODE
 
 
 You can enter INSERT mode in various ways, but for now you can use  i  key.

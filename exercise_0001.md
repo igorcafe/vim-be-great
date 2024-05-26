@@ -1,4 +1,4 @@
-				DISCLAIMER
+# DISCLAIMER
 
 If you were born after the 90s, vim is probably different to any editor you are
 used to.
@@ -7,14 +7,14 @@ It's tempting to try to adapt vim to feel like notepad++, sublime or vscode, for
 example, but I highly encourage you to insist in learning the vim way.
 
 
-				BASIC MOVING
+# BASIC MOVING
 
 Vim uses the arrow keys, as you might have already noticed, but vim also have a
 special and recommended way of moving, which are the keys  h  j  k  l:
 
 	     ^
 	     k		   
-       < h	 l >	  
+    < h     l >	  
 	     j		   
 	     v
 
@@ -24,7 +24,7 @@ Remember to keep your 4 fingers above hjkl.
 Feels weird, and you probably don't wanna use it, right?
 I swear it will feel natural soon.
 
-Complete this maze using *only* hjkl:
+Complete this maze using **only** hjkl:
 
 ___________________________________  <-- START
 | _____ |   | ___ | ___ ___ | |   | |

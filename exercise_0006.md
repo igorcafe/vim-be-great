@@ -1,13 +1,13 @@
-				SCROLLING
+# SCROLLING
 
 Vim has many keybindings for moving vertically, but for now I'll give you to
 options:
 
-	<C-u>   Scroll up by half a page
-	<C-d>   Scroll down by half a page
+<C-u>   Scroll up by half a page
+<C-d>   Scroll down by half a page
 
-	<C-f>   Scroll a full page down (f = forwards)
-	<C-b>   Scroll a full page down (b = backwards)
+<C-f>   Scroll a full page down (f = forwards)
+<C-b>   Scroll a full page down (b = backwards)
 
 
 NOTE: <C-f> means hold ctrl and press f
@@ -15,7 +15,7 @@ NOTE: <C-f> means hold ctrl and press f
 
 I suggest trying both keybindings but picking a favorite for now.
 
-Exercise:
+## Exercise
 
   1. Scroll down for further instructions
 

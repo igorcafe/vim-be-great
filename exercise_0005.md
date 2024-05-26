@@ -1,14 +1,14 @@
-			QUICKLY QUITTING VIM
+# QUICKLY QUITTING VIM
 
 You've learned how to quit vim, force quit, write quit and to just write.
 
 Now lets learn two useful shortcuts for that:
 
-     ZZ    Quit and save file
-     ZQ    Quit without saving file
+ZZ    Quit and save file
+ZQ    Quit without saving file
 
 
-Exercise:
+## Exercise
 
   1. Fill the [ ] below with a capital X
 
@@ -22,7 +22,7 @@ Exercise:
 [ ] I have finished this lesson.
 
 
-NOTES:
+## NOTES
 
   1. You must be in NORMAL mode (press  Esc  to make sure)
 
