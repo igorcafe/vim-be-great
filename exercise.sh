@@ -14,7 +14,7 @@ fi
 
 current=$(cat .current)
 
-for exercise in exercise_*.txt
+for exercise in exercise_*.md
 do
 	[[ "$current" > "$exercise" ]] && continue
 
