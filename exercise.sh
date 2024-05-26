@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 vim=$(which vim 2> /dev/null)
 if [[ -z "$vim" ]] 
@@ -40,6 +40,7 @@ do
 		fi
 
 		echo "incorrect answer for $exercise. relaunching vim in 4 seconds."
+		diff --unified .$exercise $exercise
 		sleep 4
 	done
 done
