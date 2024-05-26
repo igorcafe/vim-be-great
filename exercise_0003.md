@@ -24,10 +24,12 @@ NOTE:
 
 
 FIXME:
+```
 ---> Place the cursor hre and fix ths phras.
                        ^            ^      ^
 ---> Now plac it here nd fix this phrase.
              ^        ^
+```
 
 
 When you finish, as always, hit <Esc> :wq <Enter>.
