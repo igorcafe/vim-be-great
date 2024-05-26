@@ -24,9 +24,9 @@ NOTE:
 
 
 FIXME:
----> Place the cursor here and fix this phrase.
+---> Place the cursor hre and fix ths phras.
                        ^            ^      ^
----> Now place it here and fix this phrase.
+---> Now plac it here nd fix this phrase.
              ^        ^
 
 
