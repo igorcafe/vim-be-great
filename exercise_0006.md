@@ -19,6 +19,7 @@ I suggest trying both keybindings but picking a favorite for now.
 
   1. Scroll down for further instructions
 
+```
                                                                     
                   ████████████████████████████████▒▒                
                   ████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓                
@@ -156,6 +157,7 @@ I suggest trying both keybindings but picking a favorite for now.
 
 
 
+```
 
   2. Go up and down until you feel comfortable
 
