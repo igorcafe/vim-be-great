@@ -1,28 +1,37 @@
 				QUITTING VIM
 
+In the past exercises I told you to go to the next by using  :wq , but what does
+this command do?
 
-     Vim has two keybindings to quickly quit it:
 
-     ZZ    Quit and save file
-     ZQ    Quit without saving file
+     You can quit a vim window* by typing the command  :q  and pressing enter.
+     But it will give an error if there are unsaved changes.
+
+     To just save a file you can use  :w . It stands for "write".
+
+     To save and quit, use  :wq . 
+
+     To force quit without saving changes, use  :q! .
+
+
+*window: this concept will be explained later. For now just think that closing a
+window is closing vim.
+
 
 Exercise:
 
-  1. Fill the [ ] below with a capital X
+  1. Quit vim without making any changes with  :q .
+     Its okay, the script will relaunch this file.
 
-  2. Exit vim with  ZQ
+  2. Now fill the [ ] below with a capital X
 
-  3. The script will say the answer is incorrect and reopen this file
+  3. Exit vim without saving with  :q!
+     Once again you will come back to this file.
 
-  4. Fill the [ ] again with an  X  and go to the next lesson with  ZZ
+  4. Fill the [ ] for the last time with an  X  
+
+  5. Save and quit with  :wq  to go to the next lesson
 
 
-[X] I have finished this lesson
-
-
-NOTES:
-
-  1. You must be in NORMAL mode (press  Esc  to make sure)
-
-  2. The letters must be capital (holding  Shift  or enabling  Caps Lock )
+[X] I have finished this lesson.
 
