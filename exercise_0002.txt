@@ -1,0 +1,37 @@
+			INTRODUCTION TO MODES
+
+Vim has multiple modes, but you will mostly use 3:
+
+     NORMAL
+     The mode you are currently on.
+     It's used mostly for moving around and deleting or copying text.
+
+     INSERT
+     Used to, well, insert text.
+     You use this mode when you are writing, but leave it to move
+     around or delete stuff.
+
+     VISUAL
+     Visual mode is used to select text.
+     Selected text can be deleted, copied or saved to a file.
+
+
+You can enter INSERT mode in various ways, but for now you can use  i  key.
+You can go back to NORMAL mode by pressing  Esc .
+
+Exercise: move around using hjkl (as always) and enter insert mode with  i  to
+fix the following examples.
+
+The  ^  symbol is used to indicate you should place your cursor above it and
+enter INSERT mode.
+
+NOTE: fix it from right to left, so the  ^  always point to the right position.
+
+     Place the cursor hre and fix ths phras.
+                       ^            ^      ^
+     Now plac it here nd fix this phrase.
+             ^        ^
+
+When you finish, as always, hit <Esc> :wq <Enter>.
+
+Or you can abort pressing <Esc> :cq <Enter>.
